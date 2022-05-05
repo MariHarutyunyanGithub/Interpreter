@@ -1,0 +1,17 @@
+num num1 = 589  :
+num i2 = 7 + num1 :
+print -> " abcd "  :
+num num3 = num1 + 8 :
+num max = -1000  :
+bool log = true:
+bool logic1 = 8 + min :
+text str = ' abcdef  dfg ' :
+print -> ( str ) :
+num min = i2   :
+if ( min > 8 ) :
+do  ( max = num1 )    :
+do ( min = 7 )   :
+else do ( max =               b ) :
+do ( min = a ) :
+print -> ( num1 ) :
+
